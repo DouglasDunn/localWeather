@@ -1,0 +1,31 @@
+button {
+  margin: auto;
+  display: block;
+}
+
+#main {
+  margin-top: 10%;
+}
+
+button {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid white;
+  width: 80px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+body {
+  /*background: #ffd27f;*/
+  background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+  color: white;
+}
+
+.wi {
+  font-size: 80px;
+}
+
+#title {
+  font-size: 70px;
+}
